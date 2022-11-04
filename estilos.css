@@ -1,0 +1,31 @@
+body{
+    margin: 20px;
+    background-color: black;
+    background-image: url(/Cursos/svg/img/istockphoto-1155037737-612x612.jpg)  ;
+}
+.card{
+    width: 50rem;
+    color: #00ffff;
+    background-color: #0B0B25;
+}
+.texto-izq{
+    text-align: left;
+}
+.restbody{
+    color: aquamarine;
+    background-color: #151;
+}
+.titulo{
+    font-size: large;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+
+}
+.subtitulo, .fecha{
+    font-size: small;
+    font-style: italic;
+}
+h2{
+    color: rgb(243, 243, 188);
+    text-align: center;
+}
